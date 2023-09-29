@@ -1,3 +1,0 @@
-C:/Users/Administrator/source/repos/cmake-practice/lib/potados/cmake-build-debug/CMakeFiles/potados.dir
-C:/Users/Administrator/source/repos/cmake-practice/lib/potados/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/source/repos/cmake-practice/lib/potados/cmake-build-debug/CMakeFiles/rebuild_cache.dir
