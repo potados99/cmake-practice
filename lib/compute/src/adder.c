@@ -2,8 +2,8 @@
 // Created by Administrator on 2023-09-29.
 //
 
-#include "potados.h"
+#include "adder.h"
 
-int add(int one, int another) {
+int compute_add_two(int one, int another) {
     return one + another;
 }

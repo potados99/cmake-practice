@@ -8,3 +8,5 @@ file(GLOB potados_src CONFIGURE_DEPENDS include/*.h src/*.c)
 add_library(potados ${potados_src})
 target_include_directories(potados PUBLIC include)
 
+target_link_libraries(potados compute)
+
